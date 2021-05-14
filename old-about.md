@@ -1,4 +1,4 @@
-<img class="about-me-image" src="/images/me.png" width="256" height="320" align="right">
+<img class="about-me-image" src="/images/me.png" width="200" height="320" align="right">
 
 Howdy! I'm Prachi Sudrik.
 
