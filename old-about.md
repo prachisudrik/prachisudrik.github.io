@@ -10,10 +10,7 @@ For more details view <a href="https://www.linkedin.com/in/prachi-sudrik/"><img 
 
 ## Where else can you find me?
 
-You can find me on a variety of world wild interweb sites where my username is usually "rsms".
+You can find me on a variety of world wild interweb sites.
 
 - [Twitter](https://www.twitter.com/@prachi41024) 
 - [Instagram](https://www.instagram.com/prachisudrik/) — If you want to connect as a friend!
-
-
-<a href="https://www.twitter.com/@prachi41024" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @prachi41024</a>
