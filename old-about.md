@@ -2,7 +2,7 @@
 
 Howdy! I'm Prachi Sudrik.
 
-I'm a computer science graduate student at University of Southern California. With an experience of past 3 years in the industry, I intend to being a firm believer in open science framework and the principle of reproducible work, I actively publish my code on GitHub.
+I'm a computer science bachelor from Pune Institute of Computer Technology, Pune. With an experience of past 3 years in the industry, I intend to being a firm believer in open science framework and the principle of reproducible work, I actively publish my code on GitHub.
 
 For more details view <a href="https://www.linkedin.com/in/prachi-sudrik/"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" style="border: none;" width="160" height="33" border="0" alt="Prachi's LinkedIn Profile"></a>
 
