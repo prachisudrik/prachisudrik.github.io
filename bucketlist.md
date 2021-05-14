@@ -12,7 +12,6 @@ The future you see is the future you get - Robert G Allen
     <li>Start my own blog</li>
     <li><del>Live in another country </del> Bogota, Colombia (July 2019- Aug 2019)</li>
     <li>Start Traveling instagram page</li>
-    <li>Become a fashion model</li>
     <li>Learn Spanish</li>
     <li>Read 500 books</li>
     <li>Build my own home</li>
@@ -39,7 +38,7 @@ The future you see is the future you get - Robert G Allen
     <li>Visit Great Pyramid of Giza, Egypt</li>
     <li>Visit North Pole / South Pole</li>
     <li>Visit Santorini in Greece</li>
-    <li>Go on a trek to Mount Fuji in July</li>
+    <li>Snow trek in Mount Fuji, Japan</li>
     <li> Soak in Iceland's Blue Lagoon</li>   
     <li>Go on a solo trip</li>
 </ol>
