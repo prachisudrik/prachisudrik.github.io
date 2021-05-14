@@ -2,9 +2,6 @@ I'm a Technology Business Analyst at Schlumberger(SLB), Pune. Within the SLB org
 
 Before joining SLB, I was a CS bachelor student at Pune Institute of Computer Technology.  In my third year of engineering, I got to work on a NLP POC (Proof of Concept) project (Auto-tag recommendation for StackOverflow) 
 
-
-<h2>Academics (Grad school)</h2>
-
 <h2>First Foray into the computer science world (Under-grad)</h2>
 
 As a part of my 4-year undergrad (Bachelors in Computer Engineering at Pune Institute of Computer Technology, I was actively involved in research work and applied Machine Learning. Dabbling my hands in the field of Data Science and Machine Learning, I researched on dcoument generation using statistical machine translation. Further, I have done many projects in the field of Data Science. Right from Data Extraction using Python libraries Scrapy and Beautiful Soup to Data Warehousing to the final Data Visualization , I have learnt immensely on my own. 
@@ -25,11 +22,11 @@ As a part of my 4-year undergrad (Bachelors in Computer Engineering at Pune Inst
   <tr>
     <td class="col-md-3">Aug 2012 - May 2014</td>
     <td>
-        <strong>Girls High School, Karjat</strong>
+        <strong>Mahatma Gandhi Jr. College,Karjat</strong>
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">May 2010</td>
+    <td class="col-md-3">May 2012</td>
     <td>
       <strong>Rayat Shikshan Sanstha (Karjat, Maharashtra, India)</strong>
     </td>
