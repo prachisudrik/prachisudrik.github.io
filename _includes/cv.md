@@ -64,4 +64,3 @@ Linux, Windows
   </td>
 </tr>
 </table>
-
