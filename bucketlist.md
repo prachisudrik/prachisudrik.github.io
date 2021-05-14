@@ -40,14 +40,8 @@ The future you see is the future you get - Robert G Allen
     <li>Visit North Pole / South Pole</li>
     <li>Visit Santorini in Greece</li>
     <li>Go on a trek to Mount Fuji in July</li>
-    <li> Soak in Iceland's Blue Lagoon</li>
-    
+    <li> Soak in Iceland's Blue Lagoon</li>   
     <li>Go on a solo trip</li>
-    <li>...</li>
 </ol>
-
-Inspired from <a href="https://huyenchip.com/list-100/" target="_blank">Chip Huyen's List 100</a>
-
----
 
 Last updated on {% include last-updated.txt %}
