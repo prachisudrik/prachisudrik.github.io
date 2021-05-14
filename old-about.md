@@ -22,4 +22,3 @@ You can find me on a variety of world wild interweb sites where my username is u
 
 
 <a href="https://www.twitter.com/@prachi41024" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @prachi41024</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
