@@ -1,6 +1,6 @@
 I'm a Technology Business Analyst at Schlumberger(SLB), Pune. Within the SLB organization, I work in the SAP HR domain. Specifically, I work on ERP and Success Factors.
 
-Before joining SLB, I was a CS bachelor student at Pune Institute of Computer Technology.  In my third year of engineering, I got to work on a NLP POC (Proof of Concept) project (Auto-tag recommendation for StackOverflow) 
+Before joining SLB, I was a CS bachelor student at Pune Institute of Computer Technology. To be continued....
 
 <h2>First Foray into the computer science world (Under-grad)</h2>
 
