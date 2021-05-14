@@ -43,5 +43,3 @@ The future you see is the future you get - Robert G Allen
     <li> Soak in Iceland's Blue Lagoon</li>   
     <li>Go on a solo trip</li>
 </ol>
-
-Last updated on {% include last-updated.txt %}
