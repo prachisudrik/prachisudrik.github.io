@@ -1,9 +1,4 @@
----
-layout: page
-title: About
----
-
-<img class="about-me-image" src="/images/me.png" width="256" height="200" align="right">
+<img class="about-me-image" src="/images/me.png" width="256" height="400" align="right">
 
 Howdy! I'm Prachi Sudrik.
 
