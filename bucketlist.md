@@ -9,24 +9,20 @@ comments: true
 The future you see is the future you get - Robert G Allen
 <ol>
     <li>Start my own YouTube channel</li>
-    <li>Start my own blog</li>
     <li><del>Live in another country </del> Bogota, Colombia (July 2019- Aug 2019)</li>
     <li>Start Traveling instagram page</li>
     <li>Learn Spanish</li>
     <li>Read 500 books</li>
-    <li>Build my own home</li>
     <li>Live in LA/NewYork city</li>
     <li>Attend Shawn Mendes's live concert</li>
-    <li>Own an electric scooter</li>
     <li>Learn to drive a car</li>
-    <li>Learn to salsa</li>
+    <li>Learn Salsa</li>
     <li>Watch Northern Lights</li>
     <li>Coral reef Scuba diving</li>
     <li>Snorkeling in the Great Barrier Reef</li>
     <li>Skydive</li>
     <li>Learn to ski</li>
-    <li>Take a hot-air balloon ride</li>
-    <li>Travel to 196 countries.</li>
+    <li>Hot-air balloon ride</li>
     <li>Visit 50 out of 50 states in USA!</li>
     <li><del>Run 10k (6.2 miles)</del> - Lokmat Marathon, Pune</li>
     <li>Run a Half Marathon (13.1 miles)</li>
