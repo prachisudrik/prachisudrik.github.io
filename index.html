@@ -223,25 +223,42 @@ html_title: Prachi Sudrik
 </section>
 
 <section id="projects">
-  <h2 class="text-center"><strong>Projects I've done</strong></h2>
-  <div class="timeline container">
-  {% for milestone in site.data.timeline %}
-    <div class="timeline-block evenHeights clearfix span-7 t-span-12">
-      <div class="timeline-img wow zoomIn animated">
-        {% if milestone.icon.type == "fonticon" %}
-          <div class="timeline-icon" style="background-color: {{ milestone.icon.background_color }}"><i class="fa {{milestone.icon.class}}" aria-hidden="true"></i></div>
-        {% else %}
-          <img class="timeline-icon" src="{{ milestone.icon.src }}" style="background-color: {{ milestone.icon.background_color }}">
-        {% endif %}
+  <div class="container">
+    <div class="row">
+      <h2 class="text-center wow animated zoomIn">Quotes to live by</h2>
+      <br/>
+      <div class="comment wow fadeInRight animated">
+        <div class="comment-image">
+          <i class="fa fa-quote-left"></i>
+        </div>
+        <div class="comment-content">
+          <p>test</p>
+          <p class="comment-detail"> ― PS</p>
+        </div>
       </div>
-      <div class="timeline-content wow animated {{ milestone.additional_classes }}">
-        <h3><strong>{{ milestone.title }}</strong></h3>
-        <p>{{ milestone.description }}</p>
+      <div class="comment wow fadeInRight animated">
+        <div class="comment-image">
+          <i class="fa fa-quote-left"></i>
+        </div>
+        <div class="comment-content">
+          <p>Hi.</p>
+          <p class="comment-detail">- Tim Duncan, Professional Basketball Player, San Antonio Spurs.</p>
+        </div>
+      </div>
+      <div class="comment wow fadeInRight animated">
+        <div class="comment-image">
+          <i class="fa fa-quote-left"></i>
+        </div>
+        <div class="comment-content">
+          <p>
+           bye
+          </p>
+          <p class="comment-detail">- Henry Wadsworth Longfellow, Poet</p>
+        </div>
       </div>
     </div>
-  {% endfor %}
   </div>
-</section>  
+</section> 
   
   
   
