@@ -9,7 +9,7 @@ comments: true
 The future you see is the future you get - Robert G Allen
 <ol>
     <li>Start my own YouTube channel</li>
-    <li><del>Live in another country </del> Bogota, Colombia (July 2019- Aug 2019)</li>
+    <li><del>Live in another country </del> Bogota, Colombia (July 2019- Sept 2019)</li>
     <li>Start Traveling instagram page</li>
     <li>Learn Spanish</li>
     <li>Read 500 books</li>
