@@ -13,7 +13,8 @@
     background_color: #FFFFFF
 
 - title: "Software Developer Intern, Orion Instruments:Feb - July, 2017"
-  description: <strong> Location - Pune, India </strong> <br> SAP HR | Success Factors 
+  description: <strong> Location - Pune, India </strong> <br> SAP HR | Success Factors <br>
+          Developed a GUI based software to automate the certificate generation that caliberates the mechanical pressure guage
   additional_classes: slideInLeft
   icon:
     src: /images/Orion.PNG
