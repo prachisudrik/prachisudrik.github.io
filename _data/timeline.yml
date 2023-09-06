@@ -1,3 +1,10 @@
+- title: "Teaching Assistant, University of Southern California : Jan 2022 - Dec 2023"
+  description: TA for ITP 422 and ITP 320
+  additional_classes: slideInLeft
+  icon:
+    src: /images/slb.png
+    background_color: #FFFFFF
+    
 - title: "University of Southern California : Jan 2022 - Dec 2023"
   description: Pursuing Master of Science in Computer Science
   additional_classes: slideInLeft
