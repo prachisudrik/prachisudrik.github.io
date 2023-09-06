@@ -1,3 +1,10 @@
+- title: "University of Southern California : Jan 2022 - Dec 2023"
+  description: Pursuing Master of Science in Computer Science
+  additional_classes: slideInLeft
+  icon:
+    src: /images/usc.jpeg
+    background_color: #FFFFFF
+    
 - title: "Software Developer - II: Apr 2021 - Dec 2021"
   description: <strong> Location - Pune </strong> <br> SAP HR | Success Factors 
   additional_classes: slideInLeft
