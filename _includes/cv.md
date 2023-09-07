@@ -1,11 +1,8 @@
-I'm a Technology Business Analyst at Schlumberger(SLB), Pune. Within the SLB organization, I work in the SAP HR domain. Specifically, I work on ERP and Success Factors.
+I am currently working as a Software Engineering Intern at Sony PlayStation, contributing to the dynamic field of Data Shared Services Engineering. My role primarily involves collaborating with a dedicated team responsible for ensuring the seamless operation of the PlayStation platform. As part of my summer intern project, I had the privilege of working on a project of significant importance. I was tasked with creating a user-friendly portal designed to present Maven dependencies in various formats, each highlighting distinct data points, particularly focusing on security vulnerabilities. This initiative was undertaken to proactively notify teams about the need to update their libraries if they were found to be outdated. 
 
-Before joining SLB, I was a CS bachelor student at Pune Institute of Computer Technology. To be continued....
+Before pursuing my master's degree, I had the opportunity to work as a Software Developer at Schlumberger, a prominent company in the energy sector. During my tenure, I was part of the Human Resources team, where I initially focused on backend development before transitioning to SuccessFactors, which is a cloud-based solution within the SAP domain. My experience at Schlumberger not only equipped me with valuable technical skills but also immersed me in the agile methodology for software releases, which I found to be a highly efficient and adaptable approach.
 
-<h2>First Foray into the computer science world (Under-grad)</h2>
-
-As a part of my 4-year undergrad (Bachelors in Computer Engineering at Pune Institute of Computer Technology, I was actively involved in research work and applied Machine Learning. Dabbling my hands in the field of Data Science and Machine Learning, I researched on dcoument generation using statistical machine translation. Further, I have done many projects in the field of Data Science. Right from Data Extraction using Python libraries Scrapy and Beautiful Soup to Data Warehousing to the final Data Visualization , I have learnt immensely on my own. 
-
+I am enthusiastic about the challenges and opportunities that lie ahead in my career, and I look forward to continuing to make meaningful contributions to the field of software engineering and technology.
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
