@@ -29,6 +29,28 @@ html_title: Prachi Sudrik
   background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNTEycHgiIGhlaWdodD0iNTEycHgiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yOTMuNzUxLDQ1NS44NjhjLTIwLjE4MSwyMC4xNzktNTMuMTY1LDE5LjkxMy03My42NzMtMC41OTVsMCwwYy0yMC41MDgtMjAuNTA4LTIwLjc3My01My40OTMtMC41OTQtNzMuNjcyICBsMTg5Ljk5OS0xOTBjMjAuMTc4LTIwLjE3OCw1My4xNjQtMTkuOTEzLDczLjY3MiwwLjU5NWwwLDBjMjAuNTA4LDIwLjUwOSwyMC43NzIsNTMuNDkyLDAuNTk1LDczLjY3MUwyOTMuNzUxLDQ1NS44Njh6Ii8+DQo8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjIwLjI0OSw0NTUuODY4YzIwLjE4LDIwLjE3OSw1My4xNjQsMTkuOTEzLDczLjY3Mi0wLjU5NWwwLDBjMjAuNTA5LTIwLjUwOCwyMC43NzQtNTMuNDkzLDAuNTk2LTczLjY3MiAgbC0xOTAtMTkwYy0yMC4xNzgtMjAuMTc4LTUzLjE2NC0xOS45MTMtNzMuNjcxLDAuNTk1bDAsMGMtMjAuNTA4LDIwLjUwOS0yMC43NzIsNTMuNDkyLTAuNTk1LDczLjY3MUwyMjAuMjQ5LDQ1NS44Njh6Ii8+DQo8L3N2Zz4=);
   background-size: contain;
   background-repeat: no-repeat; }
+  #projects {
+      background-image: url('your-background-image.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed; /* Optional: Fixed background */
+    }
+
+    .project-card {
+      margin-bottom: 20px;
+    }
+
+    .box {
+      background-color: rgba(255, 255, 255, 0.8);
+      border: 2px solid #333;
+      padding: 20px;
+      border-radius: 10px;
+      transition: transform 0.2s;
+    }
+
+    .box:hover {
+      transform: scale(1.05);
+    }
 </style>
 
 <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"
@@ -226,62 +248,36 @@ html_title: Prachi Sudrik
 <!--project starts-->
 <!--project ends-->
 <section id="projects" class="bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h2 class="section-title text-center"><strong>My Projects</strong></h2>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <div class="project-item">
-          <h3>Cure-Feed</h3>
-          <p>
-            <strong>Description:</strong> Built a web application using Flask and React where users can create and search various cooking recipes based on the readily available ingredients at home. Utilized MongoDB with Firebase and MongoDB Atlas with Compass for authentication and data storage. Tracked API performance metrics and health checks using the Kibana dashboard application.
-          </p>
-          <p>
-            <strong>GitHub Repository:</strong> <a href="https://github.com/prachisudrik/cure-feed" target="_blank">Cure-Feed</a>
-          </p>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="section-title text-center"><strong>My Projects</strong></h2>
         </div>
       </div>
-      <div class="col-md-6">
-        <div class="project-item">
-          <h3>Enigma: Puzzle Fusion</h3>
-          <p>
-            <strong>Description:</strong> Crafted an engaging puzzle game featuring 13 exciting mechanics, including Basic, Rotation, Splitter, Portals, and more. Contributed to innovative gameplay design and mechanics development, collaborating closely with a dedicated team to bring this captivating game to life.
-          </p>
-          <p>
-            <strong>GitHub Repository:</strong> <a href="https://github.com/prachisudrik/Enigma" target="_blank">Enigma: Puzzle Fusion</a>
-          </p>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="project-card">
+            <div class="box">
+              <h3>Cure-Feed</h3>
+              <!-- Project description -->
+              <p>...</p>
+              <p><strong>GitHub Repository:</strong> <a href="https://github.com/prachisudrik/cure-feed" target="_blank">Cure-Feed</a></p>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <div class="project-item">
-          <h3>Spotify Clone</h3>
-          <p>
-            <strong>Description:</strong> **Write a brief description of your Spotify Clone project here.**
-          </p>
-          <p>
-            <strong>GitHub Repository:</strong> <a href="https://github.com/prachisudrik/Spotify-Clone" target="_blank">Spotify Clone</a>
-          </p>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="project-item">
-          <h3>Stock Market Prediction</h3>
-          <p>
-            <strong>Description:</strong> **Write a brief description of your Stock Market Prediction project here.**
-          </p>
-          <p>
-            <strong>GitHub Repository:</strong> <a href="https://github.com/prachisudrik/Streamlit_Projects/tree/main/StockMarket%20Prediction" target="_blank">Stock Market Prediction</a>
-          </p>
+        <div class="col-md-6">
+          <div class="project-card">
+            <div class="box">
+              <h3>Enigma: Puzzle Fusion</h3>
+              <!-- Project description -->
+              <p>...</p>
+              <p><strong>GitHub Repository:</strong> <a href="https://github.com/prachisudrik/Enigma" target="_blank">Enigma: Puzzle Fusion</a></p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
 
   
